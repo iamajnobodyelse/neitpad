@@ -1,0 +1,8 @@
+C:\Users\PyroTech\Documents\Homework\CSC202\neitpad\neitpad\bin\Debug\neitpad.exe
+C:\Users\PyroTech\Documents\Homework\CSC202\neitpad\neitpad\bin\Debug\neitpad.pdb
+C:\Users\PyroTech\Documents\Homework\CSC202\neitpad\neitpad\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PyroTech\Documents\Homework\CSC202\neitpad\neitpad\obj\Debug\neitpad.Form1.resources
+C:\Users\PyroTech\Documents\Homework\CSC202\neitpad\neitpad\obj\Debug\neitpad.Properties.Resources.resources
+C:\Users\PyroTech\Documents\Homework\CSC202\neitpad\neitpad\obj\Debug\neitpad.csproj.GenerateResource.Cache
+C:\Users\PyroTech\Documents\Homework\CSC202\neitpad\neitpad\obj\Debug\neitpad.exe
+C:\Users\PyroTech\Documents\Homework\CSC202\neitpad\neitpad\obj\Debug\neitpad.pdb
