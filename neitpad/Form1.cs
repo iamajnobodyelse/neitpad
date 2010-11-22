@@ -41,7 +41,7 @@ namespace neitpad
 
         private void save_FileOk(object sender, CancelEventArgs e)
         {
-            System.IO.StreamWriter File = new System.IO.StreamWriter(Save.FileName, true);
+            System.IO.StreamWriter File = new System.IO.StreamWriter(Save.FileName, false);
             string theText = TextBox1.Text;
             File.WriteLine(theText);
             File.Close();
