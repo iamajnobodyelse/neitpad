@@ -94,6 +94,14 @@ namespace neitpad
             ab.ShowDialog(); 
         }
 
+        private void wordWrapToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (TextBox1.WordWrap == false)
+                TextBox1.WordWrap = true;
+            else
+                TextBox1.WordWrap = false;
+        }
+
 
     }
 }
