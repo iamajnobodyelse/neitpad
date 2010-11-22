@@ -6,3 +6,4 @@ C:\Users\PyroTech\Documents\Homework\CSC202\neitpad\neitpad\obj\Debug\neitpad.Pr
 C:\Users\PyroTech\Documents\Homework\CSC202\neitpad\neitpad\obj\Debug\neitpad.csproj.GenerateResource.Cache
 C:\Users\PyroTech\Documents\Homework\CSC202\neitpad\neitpad\obj\Debug\neitpad.exe
 C:\Users\PyroTech\Documents\Homework\CSC202\neitpad\neitpad\obj\Debug\neitpad.pdb
+C:\Users\PyroTech\Documents\Homework\CSC202\neitpad\neitpad\obj\Debug\neitpad.About.resources
